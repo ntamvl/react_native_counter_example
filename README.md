@@ -19,7 +19,7 @@ cd && mkdir react_native_counter_example && cd react_native_counter_example && c
 mkdir -p src/{components,containers,store}
 ```
 
-## Add package react-redux, redux
+## Add package `react-redux`, `redux`
 ```
 yarn add redux react-redux
 ```
