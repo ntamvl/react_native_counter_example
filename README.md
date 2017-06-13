@@ -1,7 +1,12 @@
 # React Native Counter Example Use create-react-native-app
 
 ## Install create-react-native-app
-Following
+Following https://facebook.github.io/react-native/docs/getting-started.html
+
+Use npm to install the create-react-native-app command line utility:
+```
+npm install -g create-react-native-app
+```
 
 ## Create App
 ```
