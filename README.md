@@ -18,6 +18,11 @@ cd && mkdir react_native_counter_example && cd react_native_counter_example && c
 mkdir -p src/{components,containers,store}
 ```
 
+## Add package react-redux, redux
+```
+yarn add redux react-redux
+```
+
 ## Create Counter component
 Create file `src/components/Counter.js`
 
@@ -149,6 +154,25 @@ const styles = StyleSheet.create({
     fontSize: 30
   }
 });
+```
+
+## To run App
+```
+yarn start
+```
+OR
+```
+yarn run ios
+```
+
+NOTE: If you see errors:
+```
+Duplicate module name: fb-watchman
+```
+
+To Resolve, run this command:
+```
+yarn cache clear
 ```
 
 **+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++**
