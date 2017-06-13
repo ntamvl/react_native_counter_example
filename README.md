@@ -1,4 +1,5 @@
-# React Native Counter Example Use create-react-native-app
+# React Native Counter Example
+Use `create-react-native-app` and `redux`
 
 ## Install create-react-native-app
 Following https://facebook.github.io/react-native/docs/getting-started.html
@@ -174,5 +175,3 @@ To Resolve, run this command:
 ```
 yarn cache clear
 ```
-
-**+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++**
