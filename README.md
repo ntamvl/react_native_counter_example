@@ -1,7 +1,7 @@
 # React Native Counter Example
 Use `create-react-native-app` and `redux`
 
-## Install create-react-native-app
+## Install `create-react-native-app`
 Following https://facebook.github.io/react-native/docs/getting-started.html
 
 Use npm to install the create-react-native-app command line utility:
