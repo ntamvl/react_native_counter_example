@@ -166,12 +166,12 @@ OR
 yarn run ios
 ```
 
-NOTE: If you see errors:
+**NOTE: If you see errors:**
 ```
 Duplicate module name: fb-watchman
 ```
 
 To Resolve, run this command:
 ```
-yarn cache clear
+yarn cache clean
 ```
